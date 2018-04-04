@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"HzOkGoDownload "</string>
+
+
+
+    <string name="t1">开始下载</string>
+    <string name="t2">所有任务</string>
+    <string name="t3">下载中任务</string>
+    <string name="t4">已完成任务</string>
+    <string name="t1_desc">"1. 这个属于OkServer依赖中的功能,并不属于OkGo\n2. 支持断点下载和状态管理\n3. 支持自定义下载任务优先级\n4. 支持链试调用\n5. 最多支持扩展3个额外数据\n6. 支持同时指定多个下载目录"</string>
+    <string name="t_desc">"1. 每个任务支持暂停，继续，重新下载，删除等操作\n2. 支持全部暂停，全部开始，全部删除\n3. 支持全局下载任务监听\n4. 支持一个任务多个监听\n5. 支持按下载中列表和下载完成列表筛选"</string>
+</resources>
